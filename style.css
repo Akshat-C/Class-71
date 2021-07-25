@@ -1,0 +1,55 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel1 {
+    padding: 0px;
+    border: 1px solid lightgray;
+}
+.travel1 img {
+    width: 100%;    
+}
+.travel1 hr {
+    width: 250px;
+}
+.travel1 p,.travel1 h5 {
+    margin-left: 20px;
+}
+.lego_news {
+    margin-top: 13px;
+}
+.lego_news h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.lego_news img {
+    border-radius: 20px;
+    border: 2px solid gray;
+    padding: 0px;
+}
+.lego_news p {
+    margin-top: 10px;
+}
+.movie_head {
+    font-size: 18px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.movie_head i {
+    float: right;
+}
